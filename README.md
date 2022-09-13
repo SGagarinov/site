@@ -1,11 +1,11 @@
 ## Главная страница
 # Факты о себе
 
-# Фото
-![Фото](https://img.youtube.com/vi/FIshDtgjF8g/0.jpg)
-
 1. Программист.
 2. Учусь в Нетологии.
+
+# Фото
+![Фото](https://img.youtube.com/vi/FIshDtgjF8g/0.jpg)
 
 # Планы
 Окончить обучение
